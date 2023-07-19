@@ -162,9 +162,17 @@ Therefore, these rules omit the bolo except for table-top fighting
 
 #### Spell Skills
 
+see Spells.md
+
 #### Poison Skills
+
+see Poison.md
 
 #### Rune Skills
 
+see Rune.md
+
 #### Lore Skills
+
+see Lore.md
 
